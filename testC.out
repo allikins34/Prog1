@@ -1,0 +1,15 @@
+the string [radar] IS a palindrome.
+the string [hello] IS NOT a palindrome.
+the string [12321] IS a palindrome.
+the string [12345] IS NOT a palindrome.
+the string [02022020] IS a palindrome.
+the string [madam] IS a palindrome.
+the string [computer] IS NOT a palindrome.
+the string [javac] IS NOT a palindrome.
+the string [JAVAJ] IS a palindrome.
+the string [A nut for a jar of tuna.] IS NOT a palindrome.
+the string [anut for aja rof tuna] IS a palindrome.
+the string [this sentence is not a palindrome] IS NOT a palindrome.
+the string [x] IS a palindrome.
+the string [artificial intelligence] IS NOT a palindrome.
+the string [King, are you glad you are king?] IS NOT a palindrome.
